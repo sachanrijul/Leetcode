@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sachanrijul/Leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/sachanrijul/Leetcode/tree/master/0014-longest-common-prefix) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sachanrijul/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
@@ -22,4 +23,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sachanrijul/Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/sachanrijul/Leetcode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sachanrijul/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
