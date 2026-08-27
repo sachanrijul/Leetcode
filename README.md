@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sachanrijul/Leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/sachanrijul/Leetcode/tree/master/0013-roman-to-integer) |
 ## String
 |  |
@@ -49,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sachanrijul/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sachanrijul/Leetcode/tree/master/0027-remove-element) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sachanrijul/Leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sachanrijul/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
