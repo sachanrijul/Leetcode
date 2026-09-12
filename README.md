@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sachanrijul/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/sachanrijul/Leetcode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/sachanrijul/Leetcode/tree/master/0136-single-number) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sachanrijul/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sachanrijul/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sachanrijul/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sachanrijul/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sachanrijul/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/sachanrijul/Leetcode/tree/master/0035-search-insert-position) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sachanrijul/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -92,12 +94,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sachanrijul/Leetcode/tree/master/0015-3sum) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sachanrijul/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sachanrijul/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0115-distinct-subsequences](https://github.com/sachanrijul/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/sachanrijul/Leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sachanrijul/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Manacher
 |  |
 | ------- |
