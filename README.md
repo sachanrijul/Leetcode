@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sachanrijul/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/sachanrijul/Leetcode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/sachanrijul/Leetcode/tree/master/0136-single-number) |
+| [0835-image-overlap](https://github.com/sachanrijul/Leetcode/tree/master/0835-image-overlap) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sachanrijul/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sachanrijul/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sachanrijul/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -126,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/sachanrijul/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/sachanrijul/Leetcode/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
