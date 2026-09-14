@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sachanrijul/Leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/sachanrijul/Leetcode/tree/master/0013-roman-to-integer) |
+| [0836-rectangle-overlap](https://github.com/sachanrijul/Leetcode/tree/master/0836-rectangle-overlap) |
 | [3870-count-commas-in-range](https://github.com/sachanrijul/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sachanrijul/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String
@@ -131,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/sachanrijul/Leetcode/tree/master/0835-image-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/sachanrijul/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
