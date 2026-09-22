@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sachanrijul/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sachanrijul/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sachanrijul/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3525-find-x-value-of-array-ii](https://github.com/sachanrijul/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sachanrijul/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/sachanrijul/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sachanrijul/Leetcode/tree/master/0013-roman-to-integer) |
 | [0836-rectangle-overlap](https://github.com/sachanrijul/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sachanrijul/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3525-find-x-value-of-array-ii](https://github.com/sachanrijul/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3870-count-commas-in-range](https://github.com/sachanrijul/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sachanrijul/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/sachanrijul/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/sachanrijul/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
